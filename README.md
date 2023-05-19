@@ -1,4 +1,6 @@
-### Hi there 👋
+### Front-end, Vue and React Developer.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react)](https://skillicons.dev)
+
 
 <!--
 **marcelodolza/marcelodolza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
