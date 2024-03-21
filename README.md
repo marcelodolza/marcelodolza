@@ -1,5 +1,5 @@
-### Front-end, Vue and React Developer.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react)](https://skillicons.dev)
+### Front-end Specialist, Vue and React Developer.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,nuxtjs,react,nextjs)](https://skillicons.dev)
 
 
 <!--
