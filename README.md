@@ -1,4 +1,4 @@
-### Front-end Specialist, Vue and React Developer.
+### Front-end Specialist, Vue, React and Svelte Developer.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,nuxtjs,react,nextjs,svelte)](https://skillicons.dev)
 
 
